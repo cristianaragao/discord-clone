@@ -26,6 +26,3 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-      
-    - name: Run deploy
-      run: npm start
