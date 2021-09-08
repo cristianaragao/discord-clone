@@ -1,6 +1,6 @@
-# Getting started with create react app
+# Welcome
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project contains just a simple UI clone of the Discord desktop application.
 
 ## Available Scripts
 
