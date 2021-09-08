@@ -114,7 +114,7 @@ const ChannelData: React.FC = () => {
             date: `Hoje às ${new Date().getHours()}:${new Date().getMinutes() - 1}`,
             content: <><Mention>@Cristian Aragão</Mention>, digita algo aí!</>,
             isBot: true,
-            hasMentions: false
+            hasMentions: true
         },
     ]);
 
